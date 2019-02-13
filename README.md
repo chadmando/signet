@@ -114,7 +114,7 @@ Project Background
 
 Signet took it's name from the ancient practice of sealing documents by
 pressing personal jewelery into hot wax. This uniquely identified the
-documents origin. The jeweley usually took the form a rign worn by the
+documents origin. The jeweley usually took the form of a ring worn by the
 sender --a **signet ring**.
 
 ### Project Motivation
